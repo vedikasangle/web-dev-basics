@@ -1,2 +1,2 @@
 # web-dev-basics
-basics web dev - college website (frontend only)
+basics web dev- (frontend only)
